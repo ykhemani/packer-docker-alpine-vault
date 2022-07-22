@@ -1,0 +1,7 @@
+#vault_version     = "1.11.0+ent"
+#container_version = "1.11.0-ent"
+target_image_name     = "ykhemani/vault"
+source_image_username = "ykhemani"
+source_image_password = "abcdefghijklmnopqrstuvwxyz"
+target_image_username = "ykhemani"
+target_image_password = "abcdefghijklmnopqrstuvwxyz"
